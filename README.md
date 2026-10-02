@@ -6,8 +6,8 @@ HTML+CSS
 ### Non ordonnées
 
 * Les bots
-              * Amine
-               * Mustafa
+    * Amine
+    * Mustafa
 * Bot1
 * Bot2
 * Bot3
