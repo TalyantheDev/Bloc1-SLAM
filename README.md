@@ -1,7 +1,7 @@
 # Bloc1-SLAM
 HTML+CSS
 
-## Faire des listes avec la balise "<ul>" et "<ol>"
+## Faire des listes avec la balise "ul" et "ol"
 
 ### Non ordonnées
 
