@@ -30,8 +30,8 @@ HTML+CSS
 1. Un
 2. Dos
 3. Tres
-        1. Un A
-        2. Dos A
+      1. Un A
+      2. Dos A
 
 ```
         <ol>
